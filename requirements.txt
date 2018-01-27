@@ -1,0 +1,6 @@
+Flask
+Flask-Restless==0.16.0
+Flask-JWT
+Flask-Security
+Flask-Admin
+Flask-SQLAlchemy
